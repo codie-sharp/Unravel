@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "name": "unravel",
+  "version": "0.0.1",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "Codie Sharp",
+  "license": "ISC",
+  "description": "'If you knew time as well as I do, you wouldn't talk about wasting it.'"
+}
